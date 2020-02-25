@@ -1,9 +1,10 @@
 ---
 permalink: /
 title: "PhD Physics Student studying atomically thin metal oxide nanostructures for hydrogen and electrical storage."
-excerpt: "About me"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 author_profile: true
 redirect_from: 
+
   - /about/
   - /about.html
 ---
