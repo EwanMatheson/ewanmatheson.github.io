@@ -10,6 +10,6 @@ redirect_from:
 
 This project is funded by the EPSRC as part of the [ReNU CDT](https://renu.northumbria.ac.uk/) programme. information information information.......
 
-A data-driven personal website
+More information?
 ======
-more information.
+Yes please.
