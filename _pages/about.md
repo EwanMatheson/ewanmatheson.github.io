@@ -1,3 +1,4 @@
+ <br/><img src='/images/footer.png'>
 ---
 permalink: /
 title: "Introduction."
@@ -19,4 +20,4 @@ PhD - Atomically thin layers for energy harvesting and storage.
 ======
 
 
- <br/><img src='/images/footer.png'>
+
