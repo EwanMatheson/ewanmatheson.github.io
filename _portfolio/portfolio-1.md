@@ -1,7 +1,0 @@
----
-title: "Portfolio .md"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-
-This is a .md item in your portfolio. It can be have images or nice text. 
