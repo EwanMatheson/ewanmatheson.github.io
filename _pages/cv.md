@@ -38,7 +38,10 @@ Skills
   * Thermodynamics.
   * Nuclear Physics.
   * Simulation.
-* 
+* Mathematics:
+  * Calculus.
+  * Nonlinear dynamics and chaos.
+
   
 Service and leadership
 ======
