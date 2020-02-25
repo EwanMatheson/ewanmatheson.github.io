@@ -13,4 +13,4 @@ This project is funded by the EPSRC as part of the [ReNU CDT](https://renu.north
 
 More information?
 ======
-Yes please. Short description of portfolio item number 1<br/><img src='/images/footer.png'>
+Yes please. Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
