@@ -12,4 +12,4 @@ Abstract.
 
 [Download paper here](http://ewanmatheson.github.io/files/paper1.pdf)
 
-Recommended citation: Matheson, E. (2000). "Paper Title." <i>Journal</i>.
+Recommended citation: Matheson, E. (2000). "Paper Title." <i>Journal</i>. 1(1).
