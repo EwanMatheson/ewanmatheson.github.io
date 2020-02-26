@@ -5,11 +5,11 @@ permalink: /publication/2000-02-02-papertitle
 excerpt: 'Abstract.'
 date: 2000-02-02
 venue: 'Journal'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://ewanmatheson.github.io/files/paper1.pdf'
 citation: 'Matheson, E. (2000). &quot;Paper Title.&quot; <i>Journal</i>. 1(1).'
 ---
 Abstract.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://ewanmatheson.github.io/files/paper1.pdf)
 
 Recommended citation: Matheson, E. (2000). "Paper Title." <i>Journal</i>. 1(1).
