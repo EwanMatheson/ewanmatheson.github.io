@@ -20,7 +20,7 @@ The fabrication of the ZnO seed layers was made using a 15 minute sputter of ZnO
 
 <br/><img src='/images/IMG_20200217_164035.jpg'>
 
-Upon starting the recipe, the chamber undertook a 5 minute cleaning process with ZnO to prevent contamination from previous recipes, before begining the 15 minute sputtering deposition. The process left rings on the chamber target guard, resembling stress polarization. 
+Upon starting the recipe, the chamber undertook a 5 minute cleaning process with ZnO to prevent contamination from previous recipes, before begining the 15 minute sputtering deposition. The process left rings on the chamber target guard, resembling stress polarization.  asdasdasd
 
 <br/><img src='/images/IMG_20200218_153440.jpg'>
 
