@@ -16,11 +16,4 @@ I also did some chemical bath deposition using the Mg doping recipe onto the PET
 Work
 --------
 
-The fabrication of the ZnO seed layers was made using a 15 minute sputter of ZnO target at 20$\rm ^o$C, $\rm 5 \times 10^{-6}$ Bar. The substrates were positioned in the substrate holder before being positioned in the chamber.
-
-<br/><img src='/images/IMG_20200217_164035.jpg'>
-
-Upon starting the recipe, the chamber undertook a 5 minute cleaning process with ZnO to prevent contamination from previous recipes, before begining the 15 minute sputtering deposition. The process left rings on the chamber target guard, resembling stress polarization.  asdasdasd
-
-<br/><img src='/images/IMG_20200218_153440.jpg'>
 
