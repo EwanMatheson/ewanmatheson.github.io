@@ -22,7 +22,7 @@ Prerequisit work was carried out to learn the processes required for nanowire gr
 <br/><img src='/images/PL.jpg'>
 
 
-<br/><img src='/images/11.jpg'>
+<br/><img src='/images/Ewan_ZnO_nanorod/11.jpg'>
 
 
 
