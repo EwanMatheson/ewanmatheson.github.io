@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
+title: "CBD and Fabricaiotn of ZnO nanowires."
 excerpt: "This is a page not in the main menu"
 author_profile: true
 redirect_from: 
@@ -27,5 +27,3 @@ Prerequisit work was carried out to learn the processes required for nanowire gr
 <br/><img src='/images/ZnMgOSEM/GlassZnO/IMG_20191129_091748.jpg'>
 
 
-Heading 2
-======
