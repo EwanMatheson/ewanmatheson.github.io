@@ -28,5 +28,3 @@ Resources
 --------
 
 1.  You can find the chemical bath deposition method [here](https://ewanmatheson.github.io/posts/2012/08/blog-post-2/) for the process of growing $\rm Zn_{x-1}Mg_xO$ nanowires. It should be noted that the concentration of magnesium can effect the crystal structure enough to prevent nanowires from growing.
-
-1. [here](https://ewanmatheson.github.io/pages/non-menu-page/)
