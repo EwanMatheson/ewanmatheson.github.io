@@ -14,7 +14,7 @@ redirect_from:
 - "/nmp.html"
 
 
-$\rm ZnO$ Photoluminescence Spectroscopy. 
+$\bf \rm ZnO$ Photoluminescence Spectroscopy. 
 ======
 
 Prerequisit work was carried out to learn the processes required for nanowire growth and characterisation. The nanowires were grown on an ITO/Soda Lime Glass substrate using chemical bath deposition:
