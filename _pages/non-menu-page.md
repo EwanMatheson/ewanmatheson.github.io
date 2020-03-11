@@ -1,13 +1,12 @@
 ---
 permalink: /non-menu-page/
+title: $\bf \rm ZnO$ Photoluminescence Spectroscopy. 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-$\bf \rm ZnO$ Photoluminescence Spectroscopy. 
-======
 
 Prerequisit work was carried out to learn the processes required for nanowire growth and characterisation. The nanowires were grown on an ITO/Soda Lime Glass substrate using chemical bath deposition:
 1. Prepare the hot bath by setting the temperature to $\rm 90^oC$.
