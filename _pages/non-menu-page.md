@@ -1,12 +1,14 @@
 ---
 permalink: /non-menu-page/
-title: $\bf \rm ZnO$ Photoluminescence Spectroscopy. 
+title: Descriptions of exoerimental work. 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Chemical Bath Deposition growht of ZnO nanowires.
+======
 
 Prerequisit work was carried out to learn the processes required for nanowire growth and characterisation. The nanowires were grown on an ITO/Soda Lime Glass substrate using chemical bath deposition:
 1. Prepare the hot bath by setting the temperature to $\rm 90^oC$.
@@ -14,8 +16,10 @@ Prerequisit work was carried out to learn the processes required for nanowire gr
 1. Mix 93.75 ml of 40mM Zinc Nitrate solution with DI water to make 150ml of 25mM zinc nitrate solution in a double wall beaker.
 1. Add Ammonium Hydroxide ($\rm NH_4OH$) to adjust the pH to 10 - 11. 
 1. Float the substrate on the surface with the seed layer facing downwards, and leave for up to 180 minutes (depending on nanowire length). These nanowires were grown for 120 minutes.
+<br/><img src='/images/P1000591.jpg'>
 
-
+$\bf \rm ZnO$ Photoluminescence Spectroscopy.
+======
 <br/><img src='/images/IMG_20191129_091748.jpg'>
 
 
