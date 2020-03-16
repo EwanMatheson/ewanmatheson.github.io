@@ -13,6 +13,10 @@ For this project, Grand Canonical Monte Carlo Simulation (GCMC) will be adopted 
 Catlow/faux towhee Input file:
 ======
 
+
+<br/><img src='/images/zeolite.jpg'>
+
+
 ~~~
 ensemble
 'npt'
@@ -4293,11 +4297,11 @@ improper torsion
 0
 ~~~
 
-<br/><img src='/images/zeolite.jpg'>
-
 
 Grand Cannonical Ensemble Energy Biasing.
 ======
+
+<br/><img src='/images/energybiasing.jpg'>
 
 ~~~
 random_number_generator
@@ -8000,5 +8004,3 @@ vibration
 improper torsion
 0 
 ~~~
-
-<br/><img src='/images/energybiasing.jpg'>
