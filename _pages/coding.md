@@ -14,7 +14,7 @@ Catlow/faux towhee Input file:
 ======
 
 
-<br/><img src='/images/zeolite.jpg'>
+<br/><img src='/images/zeolite.png'>
 
 
 ~~~
@@ -4301,7 +4301,7 @@ improper torsion
 Grand Cannonical Ensemble Energy Biasing.
 ======
 
-<br/><img src='/images/energybiasing.jpg'>
+<br/><img src='/images/energybiasing.png'>
 
 ~~~
 random_number_generator
