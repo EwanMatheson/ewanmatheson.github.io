@@ -34,7 +34,7 @@ $\bf \rm ZnMgO$ nanowire growth
 
 Following a similar process as above:
 1. Mix 11.9g of Zinc Nitrate Hexahydrate ($\rm Zn(NO_3)_2 \times 6H_2O$) with 1L deionised water to make 1L of 40mM of Zinc Nitrate Solution.
-1. Mix 93.75 ml of 40mM Zinc Nitrate solution with 5 (0.33g), 10 (0.66g) or 15 (1g) of Magnesium Nitrate Hexahydrate ($\rm Mg(NO_3)_2 \times H_2O$). Mix with DI water to make 150ml of 25mM zinc magnesium nitrate solution in a double wall beaker.
+1. Mix 93.75 ml of 40mM Zinc Nitrate solution with 5 (0.33g), 10 (0.66g) or 15mol% (1g) of Magnesium Nitrate Hexahydrate ($\rm Mg(NO_3)_2 \times H_2O$). Mix with DI water to make 150ml of 25mM zinc magnesium nitrate solution in a double wall beaker.
 1. Add Ammonium Hydroxide ($\rm NH_4OH$) to adjust the pH to 10 - 11. 
 1. Add 28.8mg of citric acid ($\rm C_6H_8O_7$).
 1. Float the substrate on the surface with the seed layer facing downwards, and leave for up to 180 minutes. 
