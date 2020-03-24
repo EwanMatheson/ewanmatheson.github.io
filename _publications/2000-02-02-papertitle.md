@@ -1,7 +1,7 @@
 ---
 title: "Paper Title"
 collection: publications
-permalink: /publication/2000-02-02-papertitle
+permalink: /publications/2000-02-02-papertitle
 excerpt: 'Abstract.'
 date: 2000-02-02
 venue: 'Journal'
