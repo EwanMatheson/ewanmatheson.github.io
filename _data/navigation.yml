@@ -22,4 +22,4 @@ main:
     url: /non-menu-page/
   
   - title: "test"
-    url: /_protected/
+    url: /secret/
