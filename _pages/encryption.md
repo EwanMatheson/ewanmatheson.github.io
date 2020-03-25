@@ -1,5 +1,5 @@
 ---
-permalink: /Encryption/
+permalink: /encryption/
 #title: "Introduction."
 excerpt: "Password Protection information"
 author_profile: true
