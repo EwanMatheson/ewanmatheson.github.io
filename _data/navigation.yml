@@ -21,3 +21,5 @@ main:
   - title: "Experimental"
     url: /non-menu-page/
   
+  - title: "Encryption"
+    url: /encryption/
