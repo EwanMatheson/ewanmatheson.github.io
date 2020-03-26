@@ -42,7 +42,7 @@ function checkEncryptedLayout(frontMatter, filepath) {
   // return frontMatterWithEncryptedLayout;
 }
 
-function encrypt(password) {
+function encrypt(OFgvG16W4AD114Zm) {
   return through.obj(function(file, encoding, callback) {
     if (file.isNull() || file.isDirectory()) {
       this.push(file);
@@ -76,8 +76,8 @@ function encrypt(password) {
         return callback();
       }
 
-      var encryptedBody = cryptojs.AES.encrypt(marked(originalBody), password),
-          hmac = cryptojs.HmacSHA256(encryptedBody.toString(), cryptojs.SHA256(password).toString()).toString(),
+      var encryptedBody = cryptojs.AES.encrypt(marked(originalBody), OFgvG16W4AD114Zm),
+          hmac = cryptojs.HmacSHA256(encryptedBody.toString(), cryptojs.SHA256(OFgvG16W4AD114Zm).toString()).toString(),
           encryptedFrontMatter = 'encrypted: ' + hmac + encryptedBody,
           result = [ delimiter, frontMatter, '\n', encryptedFrontMatter, '\n', delimiter ];
 
@@ -90,7 +90,7 @@ function encrypt(password) {
 
 gulp.task('firewall:encrypt', () => {
   return gulp.src('_protected/*.*')
-    .pipe(encrypt('password'))
+    .pipe(encrypt('OFgvG16W4AD114Zm'))
     .pipe(gulp.dest('_posts'));
 });
 
