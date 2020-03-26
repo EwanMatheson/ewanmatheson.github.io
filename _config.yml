@@ -209,9 +209,9 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: encrypted
+      type: pages
     values:
-      layout: single
+      layout: encrypted
       author_profile: true
   # _teaching
   - scope:
