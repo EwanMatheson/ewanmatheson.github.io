@@ -211,7 +211,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: encrypted
+      layout: default
       author_profile: true
   # _teaching
   - scope:
