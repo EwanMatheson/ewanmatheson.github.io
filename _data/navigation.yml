@@ -1,23 +1,23 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-
-  - title: "GCMC Simulations"
-    url: /coding/
-
-  - title: "Experimental"
-    url: /non-menu-page/
+#  - title: "Publications"
+#    url: /publications/
+#
+#  - title: "Blog Posts"
+#    url: /year-archive/
+#
+#  - title: "Talks"
+#    url: /talks/    
+#
+#  - title: "Teaching"
+#    url: /teaching/    
+ #   
+#  - title: "CV"
+#    url: /cv/
+#
+#  - title: "GCMC Simulations"
+#    url: /coding/
+#
+#  - title: "Experimental"
+#    url: /non-menu-page/
   
